@@ -15,7 +15,7 @@ IBM Services used :
   1. Watson Studio
   2. Auto AI
 
-##Steps to follow :
+## Steps to follow :
   1. Download all the files and unzip the dataset file.
   2. Change the path according to location of dataset and run.
   3. Add the path of .exe file and check whether it's malicious or legitimate.
