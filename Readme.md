@@ -1,4 +1,4 @@
-# SBSPS-Challenge-9347-Detect-malicious-activity-to-stop-attacks-using-Machine-Learning
+# Detect-malicious-activity-to-stop-attacks-using-Machine-Learning
 TEAM MEMBERS:
 
   1. Akshay Bura
